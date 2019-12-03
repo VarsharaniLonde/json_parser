@@ -28,3 +28,7 @@ to run the test cases , use the following command
 * Your solution must build+run on Linux
 * Test cases should pass.
 * If you use any third party library, make sure you include it in the requirements.txt
+=======
+# json_parser
+A parser to parse a string into a valid json without using any external libraries
+
